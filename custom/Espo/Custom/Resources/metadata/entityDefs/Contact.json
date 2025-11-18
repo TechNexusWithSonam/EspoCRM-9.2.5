@@ -1,0 +1,15 @@
+{
+  "collectionFilters": {
+    "hasPhoneNumber": {
+      "label": "Has Phone Number",
+      "where": {
+        "phoneNumber!=": ""
+      }
+    }
+  },
+  "filterList": [
+    "all",
+    "hasPhoneNumber",
+    "onlyMy"
+  ]
+}
